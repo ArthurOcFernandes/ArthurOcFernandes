@@ -1,7 +1,7 @@
 ### Hello! I am Arthur!
 
 - 🌱 I’m currently learning C and Java
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/his
 ##
  <div>
   <a href="https://github.com/ArthurOcFernandes">
