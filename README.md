@@ -1,4 +1,4 @@
-<img width="85%" src="https://user-images.githubusercontent.com/78167347/132575570-750cf5c2-77f5-4de3-ac70-031a28dbd30e.jpg">
+<img src="https://user-images.githubusercontent.com/78167347/132575570-750cf5c2-77f5-4de3-ac70-031a28dbd30e.jpg">
 
 ### Hello! I am Arthur!
 
