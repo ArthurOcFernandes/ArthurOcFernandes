@@ -2,7 +2,7 @@
 
 ### Hello! I am Arthur!
 
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C, C++ and Java
 - 😄 Pronouns: he/his
 ##
  <div>
