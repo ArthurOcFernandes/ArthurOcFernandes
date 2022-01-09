@@ -2,8 +2,7 @@
 
 ### Hello! I am Arthur!
 
-- 🌱 I’m currently learning C, C++ and Java
-- 😄 Pronouns: he/his
+- 🌱 I’m currently learning C, C++, Java and Mysql
 ##
  <div>
   <a href="https://github.com/ArthurOcFernandes">
