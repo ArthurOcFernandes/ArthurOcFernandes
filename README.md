@@ -3,6 +3,9 @@
 ### Hello! I am Arthur!
 
 - 🌱 I’m currently learning C, C++, Java and Mysql
+- Check my portfolio here: https://arthurocfernandes.github.io/ArthurFernandes/
+
+
 ##
  <div>
   <a href="https://github.com/ArthurOcFernandes">
