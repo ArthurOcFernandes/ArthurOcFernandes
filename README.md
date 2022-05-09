@@ -2,6 +2,7 @@
 
 ### Hello! I am Arthur!
 
+- Scuba team @ Alura
 - 🌱 I’m currently learning C, C++, Java and Mysql
 - Check my portfolio here: https://arthurocfernandes.github.io/ArthurFernandes/
 
