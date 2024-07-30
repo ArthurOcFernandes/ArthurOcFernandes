@@ -21,6 +21,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg">
   </div>
   
   ##
