@@ -2,16 +2,14 @@
 
 ### Hello! I am Arthur!
 
-- Scuba team @ Alura
-- 🌱 I’m currently learning C, C++, Java and Mysql
+- 🌱 I’m currently learning Java and SQL (MySQL, PostgresSQL), GoLang and C#.
 - Check my portfolio here: https://arthurocfernandes.github.io/ArthurFernandes/
+- Feel free to reach out via email and/or LinkedIn
 
 
 ##
  <div>
-  <a href="https://github.com/ArthurOcFernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurocfernandes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurocfernandes&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurocfernandes&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -25,7 +23,8 @@
   </div>
   
   ##
-  
+
+  ### Contacts  
   <div>
     <a href = "mailto:arthurocsilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "mailto:arthur.silva57@fatec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
