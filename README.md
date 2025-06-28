@@ -2,10 +2,9 @@
 
 ### Hello! I am Arthur!
 
-- 🌱 I’m currently learning Java and SQL (MySQL, PostgresSQL), GoLang and C#.
+- I’m currently a .NET Software Engineer @ Localiza&CO working with the stack: C#, .NET, SQLServer, MongoDB and React JS
 - Check my portfolio here: https://arthurocfernandes.github.io/ArthurFernandes/
 - Feel free to reach out via email and/or LinkedIn
-
 
 ##
  <div>
