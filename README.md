@@ -2,7 +2,7 @@
 
 ### Hello! I am Arthur!
 
-- I’m currently a .NET Software Engineer @ Localiza&CO working with the stack: C#, .NET, SQLServer, MongoDB and React JS
+- I’m currently a .NET Software Engineer @ XP Inc working with the stack: C#, .NET, SQLServer, MongoDB and React JS
 - Check my portfolio here: https://arthurocfernandes.github.io/ArthurFernandes/
 - Feel free to reach out via email and/or LinkedIn
 
